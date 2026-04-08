@@ -1,2 +1,4 @@
-a=[1,3,4,6,9,5]
-print(len(a))
+# functuons without arguments and without return type
+def pratham():
+    print("Hello, World!")
+pratham()
